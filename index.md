@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 안녕하세요. AIU 강추혜 연구원입니다. 
 
 You can use the [editor on GitHub](https://github.com/BUNGBLY/AIU_BOT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
