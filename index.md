@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/BUNGBLY/AIU_BOT/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Link](http://www.aiuniverse.co.kr)
+### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
