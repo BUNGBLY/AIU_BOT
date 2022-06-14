@@ -1,4 +1,4 @@
-## 안녕하세요. AIU 강추혜 연구원입니다. 
+([src](https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png)) ## 안녕하세요. AIU 강추혜 연구원입니다. 
 
 You can use the [editor on GitHub](https://github.com/BUNGBLY/AIU_BOT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
