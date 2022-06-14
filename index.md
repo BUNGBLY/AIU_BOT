@@ -1,7 +1,7 @@
 
 
-## 안녕하세요. 
-## AI 유니버스의 강추혜 연구원입니다. ![https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png](https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png) 
+## 안녕하세요.  ![https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png](https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png) 
+## AI 유니버스의 강추혜 연구원입니다.
 
 
 AI 유니버스는 언제 어디서든 누구나 쉽게 접근할 수 있는 온라인 공개 강좌 플랫폼입니다. 
