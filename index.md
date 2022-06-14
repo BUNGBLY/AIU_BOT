@@ -2,9 +2,10 @@
 
 ## 안녕하세요. AI 유니버스의 강추혜 연구원입니다. ![https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png](https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png) 
 
-You can use the [editor on GitHub](https://github.com/BUNGBLY/AIU_BOT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+AI 유니버스는 언제 어디서든 누구나 쉽게 접근할 수 있는 온라인 공개 강좌 플랫폼입니다. 
+이곳은 AI 유니버스의 열정 사원! 강추혜가 학습자 최적의 콘텐츠를 추천해드리는 곳입니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+미래를 여는 교육! AI 유니버스에서 여러분의 삶에 능동적! 긍정적 변화를 가져올 수 있도록 도전! 해보세요. 
 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
