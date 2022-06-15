@@ -10,6 +10,7 @@
 
 
 ### 강추혜 연구원 소개
+![https://user-images.githubusercontent.com/94752351/173817879-5f4600a6-5e9c-4228-8170-ae3bfcf581e6.png](https://user-images.githubusercontent.com/94752351/173817879-5f4600a6-5e9c-4228-8170-ae3bfcf581e6.png) 
 
 ### 강추혜 챗봇 서비스 소개
 
