@@ -14,7 +14,7 @@
 
 ### 강추혜 챗봇 서비스 소개
 
-![https://user-images.githubusercontent.com/94752351/173820885-caaea151-8b68-4857-b11f-86ba24b01284.png](https://user-images.githubusercontent.com/94752351/173820885-caaea151-8b68-4857-b11f-86ba24b01284.png)AI 유니버스의 강추혜 연구원과 대화하려면 왼쪽 하단의 주황색 블록 또는 핑크색 대화창을 클릭해주세요! 
+AI 유니버스의 강추혜 연구원과 대화하려면 왼쪽 하단의 주황색 블록 ![https://user-images.githubusercontent.com/94752351/173820885-caaea151-8b68-4857-b11f-86ba24b01284.png](https://user-images.githubusercontent.com/94752351/173820885-caaea151-8b68-4857-b11f-86ba24b01284.png) 또는 핑크색 대화창을 클릭해주세요! 
 
 ![https://user-images.githubusercontent.com/94752351/173820134-f80c9b24-2f66-44eb-a991-d5ca85cf227c.png](https://user-images.githubusercontent.com/94752351/173820134-f80c9b24-2f66-44eb-a991-d5ca85cf227c.png) 
 
