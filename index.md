@@ -11,13 +11,11 @@ AI 유니버스는 언제 어디서든 누구나 쉽게 접근할 수 있는 온
 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
-![[https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png](https://user-images.githubusercontent.com/94752351/173524184-6fb12a5d-0ec2-40df-8dad-55b892685619.png) 
 
 ### 강추해 챗봇 주요 기능 안내 
 
+![https://user-images.githubusercontent.com/94752351/173786097-ebb3d949-73b4-4a5e-bf0a-268521ad957a.png](https://user-images.githubusercontent.com/94752351/173786097-ebb3d949-73b4-4a5e-bf0a-268521ad957a.png) 
 
 
-### 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다. 
-
-### 강추해 사원은 AI유니버스의 소중한 직원 입니다. 부족한 면이 있더라도 열린 마음으로 대화에 응해주세요! 
+### 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다.  
 
