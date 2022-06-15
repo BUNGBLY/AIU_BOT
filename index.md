@@ -6,10 +6,15 @@
 미래를 여는 교육! AI 유니버스에서 여러분의 삶에 능동적! 긍정적 변화를 가져올 수 있는 다채로운 강좌를 만나보세요!
 
 
+<br>
+
+
+___
+
 ![https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png](https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png) 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
-
+___
 
 
 ### 강추혜 연구원 소개  
