@@ -17,7 +17,7 @@
 
 ![https://user-images.githubusercontent.com/94752351/173820134-f80c9b24-2f66-44eb-a991-d5ca85cf227c.png](https://user-images.githubusercontent.com/94752351/173820134-f80c9b24-2f66-44eb-a991-d5ca85cf227c.png) 
 
-### 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다.  
+*모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다.*
 
 ___
 
