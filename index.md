@@ -9,23 +9,20 @@
 <br>
 
 
+### 강추혜 연구원 소개
+
+### 강추혜 챗봇 서비스 소개
+
+### 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다.  
+
 ___
 
 ![https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png](https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png) 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
+1. 이메일 문의 hj@auniverse.co.kr
+2. 전화 문의 02-6952-1067
+3. AI 유니버스 블로그 https://blog.naver.com/au119119/222355139554
+4. AI 유니버스 유튜브 채널 https://www.youtube.com/channel/UCg1HdL8UUy6XXZxCvZcxQjw
 ___
-
-
-### 강추혜 연구원 소개  
-
-![https://user-images.githubusercontent.com/94752351/173788298-14ac8ec9-ef13-496a-9a6f-2db503624a87.png](https://user-images.githubusercontent.com/94752351/173788298-14ac8ec9-ef13-496a-9a6f-2db503624a87.png) 
-
-
-### 강추혜 챗봇 서비스 소개
-
-![https://user-images.githubusercontent.com/94752351/173789509-f827faac-08f7-4133-9a06-2429497be192.png](https://user-images.githubusercontent.com/94752351/173789509-f827faac-08f7-4133-9a06-2429497be192.png) 
-
-
-### 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다.  
 
