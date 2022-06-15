@@ -11,13 +11,11 @@ AI 유니버스는 언제 어디서든 누구나 쉽게 접근할 수 있는 온
 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 
 ## 강추해 챗봇 주요 기능 안내 
 
-1. 개인정보 (성별, 연령) 확인, 맞춤형 강좌 소개 (일부 서비스 오픈)
+1.  개인정보 (성별, 연령) 확인, 맞춤형 강좌 소개 (일부 서비스 오픈)
 2. 주요 교구재(피지컬 컴퓨팅도구)별 강좌 소개 (일부 서비스 오픈) 
 3. AI유니버스 플랫폼 이용 안내 (오픈준비중) 
 4. AI에 관해 강추혜 사원과 대화하기 (오픈준비중)
