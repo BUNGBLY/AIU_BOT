@@ -15,7 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-# 강추해 챗봇 주요 기능 안내 
+## 강추해 챗봇 주요 기능 안내 
 
 1. 개인정보 (성별, 연령) 확인, 맞춤형 강좌 소개 (일부 서비스 오픈)
 2. 주요 교구재(피지컬 컴퓨팅도구)별 강좌 소개 (일부 서비스 오픈) 
@@ -25,5 +25,5 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다. 
 
-### 강추해 사원은 AI유니버스의 소중한 직원 입니다. 부족한 면이 있더라도 열린 마음으로 대화에 응해주세요! 
+## 강추해 사원은 AI유니버스의 소중한 직원 입니다. 부족한 면이 있더라도 열린 마음으로 대화에 응해주세요! 
 
