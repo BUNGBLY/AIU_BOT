@@ -14,7 +14,8 @@ AI 유니버스는 언제 어디서든 누구나 쉽게 접근할 수 있는 온
 
 ### 강추해 챗봇 주요 기능 안내 
 
-![https://user-images.githubusercontent.com/94752351/173786097-ebb3d949-73b4-4a5e-bf0a-268521ad957a.png](https://user-images.githubusercontent.com/94752351/173786097-ebb3d949-73b4-4a5e-bf0a-268521ad957a.png) 
+![https://user-images.githubusercontent.com/94752351/173788298-14ac8ec9-ef13-496a-9a6f-2db503624a87.png](https://user-images.githubusercontent.com/94752351/173788298-14ac8ec9-ef13-496a-9a6f-2db503624a87.png) 
+
 
 
 ### 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다.  
