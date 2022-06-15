@@ -21,18 +21,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 2. 주요 교구재(피지컬 컴퓨팅도구)별 강좌 소개 (일부 서비스 오픈) 
 3. AI유니버스 플랫폼 이용 안내 (오픈준비중) 
 4. AI에 관해 강추혜 사원과 대화하기 (오픈준비중)
-
+5. 기타 (강추해 사원이 대답하지 못하는 부분, 앞으로 제공되었으면 하는 챗봇 서비스는 의견 남겨주세요!) 
 
 ## 모든 채팅 정보는 신규 컨텐츠 개발과 맞춤형 강좌 추천 데이터로 이용됩니다. 
 
 ### 강추해 사원은 AI유니버스의 소중한 직원 입니다. 부족한 면이 있더라도 열린 마음으로 대화에 응해주세요! 
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BUNGBLY/AIU_BOT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
