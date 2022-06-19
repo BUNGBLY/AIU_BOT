@@ -27,7 +27,7 @@ ___
 ![https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png](https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png) 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
-1. 이메일 문의 hj@auniverse.co.kr [이메일 보내기 (클릭) ](hj@auniverse.co.kr)
+1. 이메일 문의 hj@auniverse.co.kr 
 2. 전화 문의 02-6952-1067
 3. AI 유니버스 블로그  [ 블로그 바로가기 (클릭) ](https://blog.naver.com/au119119/222355139554)
 4. AI 유니버스 유튜브 채널 [ 유튜브 채널 바로가기 (클릭) ](https://www.youtube.com/channel/UCg1HdL8UUy6XXZxCvZcxQjw )
