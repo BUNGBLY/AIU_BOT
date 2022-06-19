@@ -15,7 +15,7 @@
 ### 강추혜 챗봇 서비스 소개
 
 ![https://user-images.githubusercontent.com/94752351/173820885-caaea151-8b68-4857-b11f-86ba24b01284.png](https://user-images.githubusercontent.com/94752351/173820885-caaea151-8b68-4857-b11f-86ba24b01284.png)
-AI 유니버스의 강추혜 연구원과 대화하려면 왼쪽 하단의 주황색 블록 또는 핑크색 대화창을 클릭해주세요!
+AI 유니버스의 강추혜 연구원과 대화하려면 오른쪽 하단의 주황색 블록 또는 핑크색 대화창을 클릭해주세요!
 
 
 ![https://user-images.githubusercontent.com/94752351/173820134-f80c9b24-2f66-44eb-a991-d5ca85cf227c.png](https://user-images.githubusercontent.com/94752351/173820134-f80c9b24-2f66-44eb-a991-d5ca85cf227c.png) 
@@ -27,9 +27,8 @@ ___
 ![https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png](https://user-images.githubusercontent.com/94752351/173809770-d4b940fe-c14f-494c-97b4-389cef3ab1dd.png) 
 ### [AI유니버스 바로가기 (클릭) ](http://www.aiuniverse.co.kr)
 
-1. 이메일 문의 hj@auniverse.co.kr
+1. 이메일 문의 hj@auniverse.co.kr [이메일 보내기 (클릭) ](hj@auniverse.co.kr)
 2. 전화 문의 02-6952-1067
-3. AI 유니버스 블로그 https://blog.naver.com/au119119/222355139554
-4. AI 유니버스 유튜브 채널 https://www.youtube.com/channel/UCg1HdL8UUy6XXZxCvZcxQjw
-___
+3. AI 유니버스 블로그  [ 블로그 바로가기 (클릭) ](https://blog.naver.com/au119119/222355139554)
+4. AI 유니버스 유튜브 채널 [ 유튜브 채널 바로가기 (클릭) ](https://www.youtube.com/channel/UCg1HdL8UUy6XXZxCvZcxQjw )
 
